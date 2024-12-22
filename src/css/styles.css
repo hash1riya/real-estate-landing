@@ -8,3 +8,32 @@
 @import url(/src/css/partials-css/recently-added.css);
 @import url(/src/css/partials-css/offer.css);
 @import url(/src/css/partials-css/footer.css);
+
+/* ---------------------------------------------- */
+
+/* Wrapper */
+.wrapper {
+  width: 1440px;
+  margin: 0 auto;
+  padding: 45px 0 108px;
+}
+
+/* ---------------------------------------------- */
+
+a:hover {
+  color: #8f90a6;
+}
+img {
+  object-fit: contain;
+}
+a {
+  text-decoration: none;
+}
+input:focus {
+  outline: none;
+}
+input[type="submit"],
+button,
+a {
+  cursor: pointer;
+}

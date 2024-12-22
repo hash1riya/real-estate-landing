@@ -1,0 +1,52 @@
+/* --------- */
+/* Countries */
+/* --------- */
+
+.countries {
+  margin-inline: 120px;
+  margin: 0 120px 141px 120px;
+  text-align: center;
+}
+.countries h1 {
+  font-weight: 600;
+  font-size: 38px;
+  text-align: center;
+  color: #110229;
+  margin-bottom: 56px;
+}
+/* Country tabs */
+.country-tabs {
+  display: flex;
+  justify-content: space-between;
+}
+/* Country tab */
+.country-tab {
+  border-radius: 30px;
+  width: 278px;
+  height: 426px;
+}
+.country-tab h3 {
+  margin-top: 48px;
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #110229;
+}
+
+/* Coutry tab America */
+.america {
+  background: url(/src/img/country1.png);
+}
+/* Coutry tab Spain */
+.spain {
+  background: url(/src/img/country2.png);
+}
+/* Coutry tab London */
+.london {
+  background: url(/src/img/country3.png);
+}
+/* Coutry tab France */
+.france {
+  background: url(/src/img/country4.png);
+}

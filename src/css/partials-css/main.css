@@ -1,0 +1,78 @@
+/* ------------ */
+/* --- Main --- */
+/* ------------ */
+
+.main {
+  margin: 0 70px 103.24px 70px;
+  padding: 92px 0 108px 89px;
+  background: url(/src/img/banner1.png) no-repeat;
+  border-radius: 50px;
+}
+/* Main text */
+.main-content {
+  width: 490px;
+  margin-bottom: 62px;
+}
+/* Title */
+.title {
+  font-weight: 600;
+  font-size: 51px;
+  color: #110229;
+  margin-bottom: 39px;
+}
+.main-text {
+  font-size: 22px;
+  line-height: 164%;
+  color: #585981;
+}
+
+/* Searchbar */
+/* Search tabs */
+.search-tabs {
+  display: flex;
+  list-style: none;
+  align-items: bottom;
+}
+/* Search tab */
+.search-tab {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 257%;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #8f90a6;
+  padding: 3px 29px;
+}
+/* Active tab */
+.active-tab {
+  color: #110229;
+  border-radius: 15px 15px 0 0;
+  background: #fff;
+}
+/* Search filters */
+.search-filters {
+  display: flex;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 0 20px 20px 20px;
+  padding: 20px 29px;
+  width: 74%;
+}
+/* Search filter */
+.search-filter {
+  font-size: 16px;
+  color: #8f90a6;
+  display: flex;
+  align-items: end;
+}
+.search-filter-head {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 200%;
+  color: #110229;
+}
+.search-filters .vl {
+  margin-inline: 20px 35px;
+}
+.search-filter-content {
+  margin-right: 49px;
+}
