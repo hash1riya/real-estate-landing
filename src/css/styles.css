@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Numans&display=swap");
+
+@import url(/src/css/reset.css);
+
+@import url(/src/css/partials-css/header.css);
+@import url(/src/css/partials-css/main.css);
+@import url(/src/css/partials-css/countries.css);
+@import url(/src/css/partials-css/recently-added.css);
+@import url(/src/css/partials-css/offer.css);
+@import url(/src/css/partials-css/footer.css);
