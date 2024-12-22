@@ -1,0 +1,80 @@
+/* ------------ */
+/*Recently added*/
+/* ------------ */
+
+.recently-added {
+  margin: 0 120px 120px 120px;
+}
+.recently-added a {
+  font-weight: 500;
+  font-size: 24px;
+  color: #1daeff;
+  text-decoration: none;
+}
+.recently-added h2 {
+  font-weight: 500;
+  font-size: 38px;
+  color: #110229;
+  margin-bottom: 36px;
+  display: flex;
+  justify-content: space-between;
+}
+/* Property list */
+.property-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+/* Property tab */
+.property-tab {
+  border: 1.5px solid #dcdceb;
+  border-radius: 30px;
+  box-shadow: 0 17px 50px 0 rgba(143, 144, 166, 0.32);
+  background: #fff;
+  width: 585px;
+  height: 249px;
+  padding: 29px 36px;
+  display: flex;
+  gap: 36px;
+}
+.property-tab:hover {
+  border: 1px solid #1daeff;
+}
+.property-tab h4 {
+  font-weight: 600;
+  font-size: 28px;
+  color: #110229;
+  margin-bottom: 18px;
+}
+/* Property attributes */
+.property-attributes {
+  display: flex;
+  list-style: none;
+  gap: 39px;
+  margin-bottom: 38px;
+}
+.property-attributes li {
+  font-weight: 500;
+  font-size: 16px;
+  color: #8f90a6;
+}
+.property-tab span {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/* Buider name */
+.builder-name {
+  font-weight: 500;
+  font-size: 17px;
+  color: #8f90a6;
+}
+/* Price */
+.price {
+  border-radius: 10px;
+  background: #8f90a6;
+  font-weight: 500;
+  font-size: 19px;
+  color: #fff;
+  padding: 8px 19px;
+}

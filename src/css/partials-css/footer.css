@@ -1,0 +1,56 @@
+/* ------------ */
+/* -- Footer -- */
+/* ------------ */
+
+footer {
+  margin-inline: 120px;
+  display: flex;
+  justify-content: space-between;
+}
+footer .logo {
+  margin-bottom: 27px;
+}
+footer ul {
+  list-style: none;
+}
+footer li {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 289%;
+  color: #110229;
+}
+/* Footer text */
+.footer-text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 221%;
+  color: #8f90a6;
+  margin-bottom: 34px;
+  width: 410px;
+}
+/* Social */
+.social {
+  margin-bottom: 35px;
+}
+/* Rigths */
+.rigths {
+  font-weight: 400;
+  font-size: 13px;
+  color: #8f90a6;
+}
+/* Footer list head */
+.footer-list-head {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 180%;
+  color: #110229;
+}
+/* News subscribe block */
+.news-subscribe p {
+  margin-block: 25px 22px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 164%;
+  color: #8f90a6;
+  width: 255px;
+}

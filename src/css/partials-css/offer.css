@@ -1,0 +1,32 @@
+/* ----------- */
+/* -- Offer -- */
+/* ----------- */
+
+.offer {
+  margin: 0 70px 97px 70px;
+  border-radius: 50px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  background: linear-gradient(to bottom right, #c1ddeb, #e6f5f8);
+  display: flex;
+}
+.offer img {
+  border-radius: 0 50px 50px 0;
+}
+/* Offer content */
+.offer-content {
+  padding: 85px 0 85px 85px;
+}
+/* Offer head */
+.offer-head {
+  font-weight: 600;
+  font-size: 54px;
+  color: #110229;
+  margin-bottom: 33px;
+}
+.offer p {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 164%;
+  color: #585981;
+  margin-bottom: 37px;
+}
